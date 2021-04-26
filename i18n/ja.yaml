@@ -98,7 +98,7 @@
   translation: "タイトルなし"
 
 - id: "post.categorized_in"
-  translation: "カテゴリー"
+  translation: "in"
 
 - id: "post.tagged_in"
   translation: "タグ"
